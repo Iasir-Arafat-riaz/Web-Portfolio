@@ -1,0 +1,25 @@
+body{
+    font-family: 'Pirata One', cursive;
+    }
+h1{
+    font-size: 51px;
+  }
+  .highlights{
+      color: red;
+  }
+h3{
+    font-size: 30px;
+    color: rgb(55, 0, 255);
+}
+p{
+    font-style: normal;
+}              
+ .half-width{
+             width:40%;
+             float: left;
+             margin-left:5%;
+             padding-left:3%;
+           }
+   .half-width img {
+                     width: 100%;
+                   }        
